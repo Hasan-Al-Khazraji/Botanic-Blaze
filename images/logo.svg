@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="180" viewBox="0 0 1080 180">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 72px;
+        font-family: Gotham;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #fd5068;
+      }
+    </style>
+  </defs>
+  <text id="BOTANIC_BLAZE" data-name="BOTANIC BLAZE" class="cls-1" transform="translate(3 133.907) scale(1.735)">BOTANIC <tspan class="cls-2">BLAZE</tspan></text>
+</svg>
