@@ -304,5 +304,11 @@ document.addEventListener("DOMContentLoaded",()=>
     {
         ui.getBagButtons();
         ui.cartLogic();
+        // Smooth scroll to the products section when clicking "Shop Now" button
+        const shopNowBtn = document.getElementById('shopNowBtn');
+        shopNowBtn.addEventListener('click', () => {
+            const productsSection = document.getElementById('products');
+            productsSection.scrollIntoView({ behavior: 'smooth' });
+        });
     }); 
 });
